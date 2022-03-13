@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap:https://brainlymcqs.github.io/sitemap.xml
